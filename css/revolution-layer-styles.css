@@ -1,0 +1,19 @@
+#welcome_wrapper .tp-loader.spinner2 {
+  background-color: #006dd2 !important;
+}
+
+video::-webkit-media-controls-start-playback-button {
+  display: none !important
+}
+
+.tc-gradient i:before {
+  background: -webkit-linear-gradient(left, #5e05b1 0%, #09ceff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent
+}
+
+.tc-btnshadow {
+  -webkit-box-shadow: 3px 5px 10px 0px rgba(0, 0, 0, 0.2) !important;
+  -moz-box-shadow: 3px 5px 10px 0px rgba(0, 0, 0, 0.2) !important;
+  box-shadow: 3px 5px 10px 0px rgba(0, 0, 0, 0.2) !important
+}
